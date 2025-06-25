@@ -1,3 +1,0 @@
-[submodule "mujoco/mujoco_learning"]
-	path = mujoco/mujoco_learning
-	url = https://github.com/Auksphere/Robotics-Developing.git
